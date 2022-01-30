@@ -4,6 +4,12 @@
 .menuM{
     font-family: 'Bebas Neue', cursive;
 }
+
 .content{
     font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: column;
+    border: 10px solid;
+    margin: 0;
+    width: 750px
 }
